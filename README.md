@@ -6,9 +6,8 @@ A machine learning web app built with **Streamlit** that predicts students' exam
 
 ## Live Demo
 
-👉 [Try the app on Streamlit]([https://student-exam-score-predictor-<your-app-id>.streamlit.app](https://student-exam-score-predictor-zhhaddx9mhmemmpqehxne9.streamlit.app/))
+👉 [Try the app on Streamlit](https://student-exam-score-predictor-zhhaddx9mhmemmpqehxne9.streamlit.app/)
 
----
 
 ## Features
 
