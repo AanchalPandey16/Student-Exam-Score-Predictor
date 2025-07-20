@@ -1,0 +1,12 @@
+1. Imported libraries like pandas, matplotlib, seaborn
+2. Read the csv file and did a lil dataset surf by seeing its shape, it is null or not, unique values in columns
+3. Converted the categorical columns into numerical and did mapping
+4. Made boxplot and heatmap to see outliers and correlation between columns
+5. Described x and y, x for independent and y for independent variable 
+6. Imported sklearn library train test split and splited in 0.2 test size
+7. Saw the shape of all x test y test and all
+8. Imported linear regression model and got beta and beta zero values 
+9. Did y prediction 
+10. Imported root mean squared error
+11. And used joblib to get the model.pkl file
+12. Made a python file and used streamline to make frontend
